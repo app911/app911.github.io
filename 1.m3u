@@ -1,23 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@app911 
-app911
-/
-app911.github.io
-1
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-app911.github.io/list.m3u
-@app911 app911 Update list.m3u
-002bcaf yesterday
-337 lines (337 sloc)  32.2 KB
-  
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",4K测试
 rtsp://139.215.98.88/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil
@@ -209,17 +189,3 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225846/100001000000000600000000152130
 rtsp://139.215.98.88/PLTV/88888888/224/3221225848/10000100000000060000000015213098_0.smil
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",悦享生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
-
-.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
