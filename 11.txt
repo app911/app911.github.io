@@ -271,3 +271,4 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 哈哈炫动,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 卡酷少儿,http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
 FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+超神玩法，https://migu-bd.hls.huya.com/src/1099531740249-1099531740249-86382413776683008-2199063603954-10057-A-0-1.m3u8?wsSecret=f1310ba966aa67a8ff0906b0d2cf1733&wsTime=5f826ce5&u=0&seqid=16022966704659846&ctype=tars_mobile&txyp=o%3Ad2%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
